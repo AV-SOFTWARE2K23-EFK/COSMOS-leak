@@ -1,0 +1,19 @@
+@everyone 
+https://raw.githubusercontent.com/Koha001/LeSexInfiniJeBande/main/Installers/ManagerVerify.json
+https://raw.githubusercontent.com/Koha001/LeSexInfiniJeBande/main/Installers/FortniteInstaller.exe
+https://raw.githubusercontent.com/Koha001/LeSexInfiniJeBande/main/Installers/FortniteGay.exe
+ 
+ 
+ await homePage1.TaskDownloadFile(RealWTF + "\\libcrypto-1_1-x64.dll", "https://raw.githubusercontent.com/Koha001/LeSexInfiniJeBande/main/Installers/libcrypto-1_1-x64.dll");
+            await homePage1.TaskDownloadFile(RealWTF + "\\libssl-1_1-x64.dll", "https://raw.githubusercontent.com/Koha001/LeSexInfiniJeBande/main/Installers/libssl-1_1-x64.dll");
+            await homePage1.TaskDownloadFile(RealWTF + "\\client_win-core-console-l1-1-0.dll", "https://raw.githubusercontent.com/Koha001/LeSexInfiniJeBande/main/Installers/ClientDLL.dll");
+            await homePage1.TaskDownloadFile(RealWTF + "\\BypassSSLV7.dll", "https://raw.githubusercontent.com/Koha001/LeSexInfiniJeBande/main/Installers/BypassSSLV7.dll");
+            await homePage1.TaskDownloadFile(RealWTF + "\\FortniteLauncher.exe", "https://raw.githubusercontent.com/Koha001/LeSexInfiniJeBande/main/Installers/FortniteLauncherV2.exe");
+
+
+        string str = path1 + "\\client_win-core-console-l1-1-0.dll";
+              string FortniteSSlDLLPath = path1 + "\\BypassSSLV7.dll";
+              string MemoryLeakFixerPath = path1 + "\\MemoryLeakerFixerV2.dll";
+              string UriString = "https://raw.githubusercontent.com/Koha001/LeSexInfiniJeBande/main/Installers/ClientDLL.dll";
+              string FortniteSSlDLLUrl = "https://raw.githubusercontent.com/Koha001/LeSexInfiniJeBande/main/Installers/BypassSSLV7.dll";
+              string MemoryLeakFixerUrl = "https://raw.githubusercontent.com/Koha001/LeSexInfiniJeBande/main/Installers/MemoryLeakerFixerV2.dll";
